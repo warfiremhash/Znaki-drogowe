@@ -1,0 +1,12 @@
+.idea/
+__pycache__/
+*.pyc
+venv/
+env/
+*.h5
+*.pb
+*.ckpt
+logs/
+*.log
+*.tmp
+*.DS_Store
